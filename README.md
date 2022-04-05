@@ -2,7 +2,7 @@
 - 👀 I’m interested in Bioinformatics, Synthetic Biology, Lab data automation and Data Science
 - 🌱 I’m currently learning Python for Bioinformatic (NGS)
 - 💞️ I’m looking to collaborate on ...
-- 📫 work: dal@biosyntia
+- 📫 work: dal@biosyntia.com
 - 📫 personal: davidlh3@gmail.com
 
 <!---
