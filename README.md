@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DavidL-H
 - 👀 I’m interested in Bioinformatics, Synthetic Biology, Lab data automation and Data Science
-- 🌱 I’m currently learning Python for Bioinformatic (NGS)
+- 🌱 I’m currently learning Python for Bioinformatic (NGS) and Data Science with R
 - 💞️ I’m looking to collaborate on ...
 - 📫 work: dal@biosyntia.com
 - 📫 personal: davidlh3@gmail.com
